@@ -1,0 +1,4 @@
+<map id="BusAPI::IUart" name="BusAPI::IUart">
+<area shape="rect" id="node1" title="Class responsible for sending and receiving bus&#45;level packet from the bus." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node2" href="$classSubInterface.html" title=" " alt="" coords="7,80,111,107"/>
+</map>
